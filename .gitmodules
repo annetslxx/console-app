@@ -1,0 +1,8 @@
+[submodule "graph"]
+	path = graph
+	url = git@github.com:annetslxx/graph.git
+	branch = master
+[submodule "linalg"]
+	path = linalg
+	url = git@github.com:annetslxx/linalg.git
+	branch = main
